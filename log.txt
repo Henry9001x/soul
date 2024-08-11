@@ -1,0 +1,30 @@
+UserID: 6801194024 | Time: 2024-08-03 09:20:54.779911 | Command: /bgmi | Target: 20.204.191.150 | Port: 10161 | Time: 60
+Username: @Kokolis8
+Target: 20.204.191.150
+Port: 10161
+Time: 60
+
+UserID: 6801194024 | Time: 2024-08-03 09:28:20.388834 | Command: /bgmi | Target: 20.204.69.85 | Port: 14723 | Time: 360
+Username: @Kokolis8
+Target: 20.204.69.85
+Port: 14723
+Time: 360
+
+UserID: 6801194024 | Time: 2024-08-03 09:44:21.551755 | Command: /bgmi | Target: 4.213.64.211 | Port: 20610 | Time: 360
+Username: @Kokolis8
+Target: 4.213.64.211
+Port: 20610
+Time: 360
+
+UserID: 6801194024 | Time: 2024-08-03 10:05:08.290379 | Command: /bgmi | Target: 20.198.73.131 | Port: 20393 | Time: 360
+Username: @Kokolis8
+Target: 20.198.73.131
+Port: 20393
+Time: 360
+
+UserID: 6801194024 | Time: 2024-08-03 10:21:43.588139 | Command: /bgmi | Target: 4.213.66.155 | Port: 25930 | Time: 360
+Username: @Kokolis8
+Target: 4.213.66.155
+Port: 25930
+Time: 360
+
